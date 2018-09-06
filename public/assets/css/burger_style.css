@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://pixabay.com/get/ed30b80d21fd1c22d9584518a33219c8b66ae3d01ab7104890f1c078/bricks-459299_1920.jpg);
+    background-size: 100%;  
+font-family: 'Acme', sans-serif;
+
+
+    }
+
+.main{
+    max-width: 100%;
+    max-height:100%;
+  font-size: 40px;
+  align-content: center;
+  text-align:center;
+}
+
+.ul-div {
+    align-content: center;
+}
+.item{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    margin: 20px;
+    width: 600px;
+    height: 100px; 
+    list-style: none;
+
+} 
+
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgb(211, 215, 226) ;
+    opacity: 0.6;
+
+}
+
+.btn {
+border-radius: 20px;
+font-size:30px;
+margin-left: 20px;
+margin-right:20px;
+}
